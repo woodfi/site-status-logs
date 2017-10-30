@@ -1,5 +1,6 @@
 <h1 align="center"> Site Status Updates </h1>
 <p align="center"> The current status of my Github Pages site. </p>
+<p align="center"> Updates will be posted below and then clearned out after 3 weeks. Please open an issue if the status needs updated. </p>
 
 ----
 
