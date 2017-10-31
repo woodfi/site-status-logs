@@ -4,7 +4,7 @@
 
 ----
 
-> > 31/10/2017 (08:05am) - Everything is working as normal.
+> 31/10/2017 (08:05am) - Everything is working as normal.
 
 > 30/10/2017 (10:19pm) - Everything is back up, most minor updates have been completed.
 
