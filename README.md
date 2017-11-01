@@ -4,6 +4,8 @@
 
 ----
 
+> 01/11/2017 (05:37pm) - Everything is working as normal.
+
 > 31/10/2017 (07:24pm) - I'm making some major changes to the site right now, It may look a bit broken.
 
 > 31/10/2017 (04:15pm) - Everything is working as normal.
