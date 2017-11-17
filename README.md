@@ -4,6 +4,8 @@
 
 ----
 
+> 17/11/2017 (10:19) - Everything is working as normal.
+
 > 16/11/2017 (06:06) - Everything is working as normal.
 
 > 15/11/2017 (09:41) - Everything is working as normal.
